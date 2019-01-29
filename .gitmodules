@@ -1,0 +1,4 @@
+[submodule "bgavarini/phytocontrol"]
+	path = bgavarini/phytocontrol
+	url = git@github.com:bgavarini/phytocontrol.git
+	branch = master
